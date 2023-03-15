@@ -15,4 +15,4 @@
   <img alagn="center" alt="JavaScript"    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  
   <img alagn="center" alt="Phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
   <img alagn="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img alagn="center" alt="Java" src="https://img.shields.io/badge/Csharp-BC02D4?style=for-the-badge&logo=CS&logoColor=white" />
+<img alagn="center" alt="Java" src="https://img.shields.io/badge/C#-BC02D4?style=for-the-badge&logo=CS&logoColor=white" />
