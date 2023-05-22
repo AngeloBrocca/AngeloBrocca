@@ -4,7 +4,7 @@
 
 # Segue abaixo uma tabela contendo alguns dados sobre meu perfil no GitHub:
 
-[![Angelo Brocca GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloBrocca&show_icons=true&theme=tokyonight)(https://github.com/anuraghazra/github-readme-stats)
+[![Angelo Brocca GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloBrocca&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloBrocca)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que ultilizo:
