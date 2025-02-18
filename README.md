@@ -19,3 +19,4 @@
   <img alagn="center" alt="PHP" src="https://img.shields.io/badge/PHP-600080?style=for-the-badge&logo=PHP&logoColor=white" />
   <img alagn="center" alt="Angular" src="https://img.shields.io/badge/Angular-e60000?style=for-the-badge&logo=Angular&logoColor=white" />
   <img alagn="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0000ff?style=for-the-badge&logo=Typescript&logoColor=white" />
+  <img alagn="center" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white" />
