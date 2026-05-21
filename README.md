@@ -1,11 +1,14 @@
 ### Segue abaixo meu perfil do LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/angelo-brocca-87bb1a148)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-brocca-87bb1a148)
 
 # Segue abaixo uma tabela contendo alguns dados sobre meu perfil no GitHub:
 
-![Angelo Brocca GitHub stats](https://github-readme-stats.vercel.app/api?username=AngeloBrocca&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloBrocca)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AngeloBrocca&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AngeloBrocca&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
 ### Tecnologias que ultilizo:
 
