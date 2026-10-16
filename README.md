@@ -1,6 +1,8 @@
 ### Segue abaixo meu perfil do LinkedIn:
+### Seguem abaixo meus perfis profissionais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-brocca-87bb1a148/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://angelo-brocca-portfolio.vercel.app/)
 
 # Segue abaixo uma tabela contendo alguns dados sobre meu perfil no GitHub:
 
